@@ -5,7 +5,7 @@
 
 <img width="1604" src="https://raw.githubusercontent.com/HighnessAtharva/Media-Analysis/main/assets/screengrabs/0.png">
 
- Welcome to my cutting-edge entertainment analysis tool, where data meets entertainment! With our sleek and intuitive Streamlit web application, you can dive deep into the world of your favorite platforms and uncover insights that you never knew existed. Get ready to discover the hidden gems, trending hits, and everything in between with just a few clicks. Let's turn data into entertainment magic!
+ Welcome to my cutting-edge entertainment analysis tool, where data meets entertainment! With our sleek and intuitive Streamlit web application, you can dive deep into the world of your favorite platforms and uncover insights that you never knew existed. Get ready to discover the hidden gems, trending hits, and everything in between with just a few clicks. Let's turn your data into entertainment magic!
 
 ## Screenshots
 
